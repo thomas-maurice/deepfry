@@ -24,4 +24,4 @@ six==1.11.0
 tabulate==0.8.2
 urllib3==1.23
 wcwidth==0.1.7
-Werkzeug==0.14.1
+Werkzeug==0.15.3
