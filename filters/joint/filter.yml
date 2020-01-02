@@ -1,0 +1,13 @@
+---
+filter:
+  name: Snoop dog
+  description: Smoke weed everyday
+  file_name: filters/joint/joint.png
+  xcenter: 40
+  ycenter: -240
+  scale: 0.7
+  rotate: false
+  priority: 100
+  applies:
+    - center_mouth
+  mask: true

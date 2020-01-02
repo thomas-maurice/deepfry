@@ -1,0 +1,12 @@
+---
+filter:
+  name: Thonking emoji
+  description: Mmmmmh
+  file_name: filters/thonk/thonk.png
+  xcenter: -1210
+  ycenter: -1220
+  scale: 2.4
+  rotate: true
+  applies:
+    - center_nose
+  mask: true

@@ -1,0 +1,12 @@
+---
+filter:
+  name: Thinking emoji
+  description: Mmmmmh
+  file_name: filters/think_emoji/think_emoji.png
+  xcenter: -310
+  ycenter: -320
+  scale: 2.4
+  rotate: true
+  applies:
+    - center_nose
+  mask: true

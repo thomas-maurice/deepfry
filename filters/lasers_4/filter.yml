@@ -1,0 +1,15 @@
+---
+filter:
+  name: Lasers 4
+  description: Pew pew pew
+  file_name: filters/lasers_4/laser_4.png
+  xcenter: -1650
+  ycenter: 250
+  scale: 1
+  rotate: false
+  angle: -45
+  priority: 100
+  applies:
+    - center_right_eye
+    - center_left_eye
+  mask: true

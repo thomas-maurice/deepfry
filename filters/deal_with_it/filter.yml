@@ -1,0 +1,14 @@
+---
+filter:
+  name: Deal with it
+  description: Like a boss
+  file_name: filters/deal_with_it/deal_with_it.png
+  xcenter: 0
+  ycenter: -310
+  scale: 1.3
+  rotate: true
+  angle: 0
+  priority: 0
+  applies:
+    - center_nose
+  mask: true

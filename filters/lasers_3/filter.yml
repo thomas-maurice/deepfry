@@ -1,0 +1,15 @@
+---
+filter:
+  name: Lasers 3
+  description: Pew pew pew
+  file_name: filters/lasers_3/laser_3.png
+  xcenter: -130
+  ycenter: -130
+  scale: 0.8
+  rotate: false
+  angle: 20
+  priority: 100
+  applies:
+    - center_right_eye
+    - center_left_eye
+  mask: true

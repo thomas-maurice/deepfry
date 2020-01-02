@@ -1,0 +1,12 @@
+---
+filter:
+  name: OMG emoji
+  description: OMG
+  file_name: filters/omg/omg.png
+  xcenter: -250
+  ycenter: -220
+  scale: 2.4
+  rotate: true
+  applies:
+    - center_nose
+  mask: true

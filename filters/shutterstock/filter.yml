@@ -1,0 +1,11 @@
+---
+filter:
+  name: Shutterstock
+  description: Shutterstock watermark
+  file_name: filters/shutterstock/shutterstock.png
+  xcenter: -300
+  ycenter: -600
+  scale: 1
+  applies:
+    - center
+  mask: false

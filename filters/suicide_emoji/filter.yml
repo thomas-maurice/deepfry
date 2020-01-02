@@ -1,0 +1,12 @@
+---
+filter:
+  name: Suicide emoji
+  description: Life is pain
+  file_name: filters/suicide_emoji/suicide.png
+  xcenter: -310
+  ycenter: -320
+  scale: 2.4
+  rotate: true
+  applies:
+    - center_nose
+  mask: true
